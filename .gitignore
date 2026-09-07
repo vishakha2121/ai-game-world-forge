@@ -58410,7 +58410,7 @@ service-account.json
 
 # npm
 package-lock.json
-yarn.lock
+arn.lock
 pnpm-lock.yaml
 
 # pip
